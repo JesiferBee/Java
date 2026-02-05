@@ -41,4 +41,3 @@ public class Grader
  * Score=95, OUTPUTS: A
  * Score=50, OUTPUTS: F
  */
- * */
